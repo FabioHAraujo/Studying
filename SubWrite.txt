@@ -1,0 +1,26 @@
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+teste
+teste
+teste
+
+dadadad
+dasdadad
+wdasdadw ad d
+a s
+ dad
+wd a
+dsd
+ 
+
+da
+sd a
+da
+d a
+ daw
+d a
+da
+& C:/Users/fabio/AppData/Local/Programs/Python/Python311/python.exe c:/Users/fabio/OneDrive/Documentos/GitHub/Studying/Python/2.py
