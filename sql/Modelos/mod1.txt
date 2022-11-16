@@ -1,0 +1,15 @@
+
+
+Como primeira atividade, estarei criando o modelo de um banco de dados
+que irá armazenar dados de uma empresa.
+
+DB - empresax;
+TABELA1 - CLIENTE
+    NOME        -   CARACTER(50)
+    CPF         -   NUMERICO(11)
+    E-MAIL      -   CARACTER(50)
+    TELEFONE    -   CARACTER(30)
+    ENDERECO    -   CARACTER(100)
+    SEXO        -   CARACTER(1)
+
+    

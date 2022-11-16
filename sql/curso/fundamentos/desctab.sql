@@ -1,0 +1,2 @@
+USE projeto;
+DESC cliente;

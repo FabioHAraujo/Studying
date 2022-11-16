@@ -1,0 +1,2 @@
+USE projeto;
+INSERT INTO cliente VALUES('Ana','F','ana@globo.com',85548962,'548556985','Pres Antonio Carlos - Centro - Sao Paulo - SP'),('Carla','F','carla@terra.com.br',7745828,'66587458','Samuel Silva - Centro - Belo Horizonte - MG');
