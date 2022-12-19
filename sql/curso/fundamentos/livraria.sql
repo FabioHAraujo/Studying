@@ -1,0 +1,14 @@
+/* IREI ORDERNAR AQUI OS CÓDIGOS. CONFORME EU FOR DANDO OS COMANDOS, ESTAREI COMENTANDO OS ATENRIORES*/
+-- CREATE DATABASE LIVRARIA;
+USE LIVRARIA;
+
+CREATE TABLE LIVROS (
+    N_LIVRO             VARCHAR(100),
+    N_AUTOR             VARCHAR(100),
+    SEXO_AUTOR          CHAR(1),
+    NUM_PAGINAS         INT(11),
+    N_EDITORA           VARCHAR(50),
+    VALOR               FLOAT(10,2),
+    UF                  CHAR(2),
+    Antonio             INT(4)
+);
