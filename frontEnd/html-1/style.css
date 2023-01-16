@@ -229,9 +229,40 @@ th, td {
 
 .imgBeneficios {
     width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000;
+}
+
+.imgBeneficios:hover {
+    opacity: 0.5;
 }
 
 .video {
     width: 500px;
     margin: 2em auto;
+}
+
+@media screen and (max-width: 480px){
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo{
+        width: auto;
+    }
+
+    .video {
+        width: 80%;
+    }
+
+    h1 {
+        text-align: center;
+    }
+    
+    nav {
+        position: static;
+    }
+
+    .lista-beneficios, .imgBeneficios {
+        width: 80%;
+        text-align: center;
+        position: static;
+    }
 }
