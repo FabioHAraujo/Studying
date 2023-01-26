@@ -1,3 +1,5 @@
+/* Vou fazer exercicio em outro momento
+
 package java5;
 
 public class Fatorial {
@@ -10,3 +12,5 @@ public class Fatorial {
 		}
 	}
 }
+
+*/
