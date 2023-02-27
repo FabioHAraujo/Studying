@@ -1,6 +1,7 @@
 
 public class CriaConta {
 	public static void main(String[] args) {
+		int opcao=0;
 		conta primeiraConta = new conta();
 		primeiraConta.saldo = 200;
 		primeiraConta.agencia = 01;
@@ -26,5 +27,8 @@ public class CriaConta {
 		terceiraConta.saldo+=100;
 		System.out.println("Saldo da Terceira conta "+terceiraConta.saldo);
 		System.out.println(segundaConta.saldo);
+		
+		System.out.println("Gostaria de Registrar seus dados pessoais e ganhar uma conta?\n");
+		
 	}
 }
