@@ -1,0 +1,15 @@
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.csproj.AssemblyReference.cache
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.AssemblyInfo.cs
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\bin\Debug\net7.0\src.exe
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\bin\Debug\net7.0\src.deps.json
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\bin\Debug\net7.0\src.runtimeconfig.json
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\bin\Debug\net7.0\src.dll
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\bin\Debug\net7.0\src.pdb
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.dll
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\refint\src.dll
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.pdb
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\src.genruntimeconfig.cache
+C:\Users\fabio-araujo\OneDrive - FLECKSTEEL INDUSTRIA DE ARTEFATOS METALICOS LTDA\Documentos\1Estudo\CS\mar22\src\obj\Debug\net7.0\ref\src.dll
