@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cebb6ad3-01c4-4bfc-b541-b822b4965023" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1ESTUDANDO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/1ESTUDANDO/FileContentIndex/c167b063-e8fc-4b21-b372-b37f0b4e30fb.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/1ESTUDANDO/v17/Browse.VC.sync-conflict-20230408-175127-WOXNROX.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.sync-conflict-20230408-175122-WOXNROX.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sync-conflict-20230408-175122-WOXNROX.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.sync-conflict-20230408-175125-WOXNROX.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/Projeto1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/out/production/Projeto1/Projeto1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Projeto1/src/Projeto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/inicio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/inicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/sintaxe-basica/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/sintaxe-basica/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/sintaxe-basica/bin/Programa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/sintaxe-basica/src/Programa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/sintaxe-basica/src/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Alura/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Alura/3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2O9yZ8iqZujBXgdJog8xJq9iNUD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/anapa/OneDrive/Área de Trabalho/fabio/estudando",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cebb6ad3-01c4-4bfc-b541-b822b4965023" name="Changes" comment="" />
+      <created>1680987146100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680987146100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
