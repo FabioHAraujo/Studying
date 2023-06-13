@@ -1,0 +1,15 @@
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\bin\Debug\net7.0\App1.exe
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\bin\Debug\net7.0\App1.deps.json
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\bin\Debug\net7.0\App1.runtimeconfig.json
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\bin\Debug\net7.0\App1.dll
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\bin\Debug\net7.0\App1.pdb
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.csproj.AssemblyReference.cache
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.AssemblyInfoInputs.cache
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.AssemblyInfo.cs
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.dll
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\refint\App1.dll
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.pdb
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\App1.genruntimeconfig.cache
+C:\Users\fabio-araujo-adm\source\repos\FabioHAraujo\Studying\CS\microsoftLearn\App1\App1\obj\Debug\net7.0\ref\App1.dll

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CSHARP"
+    "\\CS",
+    "\\CSHARP",
+    "\\CSHARP\\ConsoleApp1",
+    "\\CS\\microsoftLearn"
   ],
-  "SelectedNode": "\\CSHARP",
   "PreviewInSolutionExplorer": false
 }
