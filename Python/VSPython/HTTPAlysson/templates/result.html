@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Limpador de Arquivos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            overflow: hidden;
+            height: 20px;
+        }
+
+        .progress-bar-fill {
+            background-color: #2ecc71;
+            height: 100%;
+            transition: width 0.3s;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #2980b9;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+    <script>
+        function handleFileUpload() {
+            var fileInput = document.getElementById('fileInput');
+            var progressBar = document.getElementById('progressBar');
+            var downloadButton = document.getElementById('downloadButton');
+
+            if (fileInput.files.length === 0) {
+                alert('Nenhum arquivo selecionado.');
+                return;
+            }
+
+            var file = fileInput.files[0];
+            var formData = new FormData();
+            formData.append('file', file);
+
+            var xhr = new XMLHttpRequest();
+
+            xhr.upload.onprogress = function(e) {
+                if (e.lengthComputable) {
+                    var progress = (e.loaded / e.total) * 100;
+                    progressBar.style.width = progress + '%';
+                }
+            };
+
+            xhr.onload = function() {
+                progressBar.style.width = '100%';
+                progressBar.innerHTML = 'Processamento concluído.';
+                downloadButton.classList.remove('hidden');
+            };
+
+            xhr.onerror = function() {
+                alert('Ocorreu um erro durante o envio do arquivo.');
+            };
+
+            xhr.open('POST', '/upload');
+            xhr.send(formData);
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h2>Limpador de Arquivos</h2>
+        <p>Selecione um arquivo para processar. O arquivo será convertido para Excel.</p>
+
+        <input type="file" id="fileInput" accept=".txt" />
+        <br /><br />
+        <button class="button" onclick="handleFileUpload()">Processar Arquivo</button>
+
+        <div class="progress-bar">
+            <div id="progressBar" class="progress-bar-fill"></div>
+        </div>
+
+        <a id="downloadButton" class="button hidden" href="/download">Baixar Arquivo Excel</a>
+    </div>
+</body>
+</html>

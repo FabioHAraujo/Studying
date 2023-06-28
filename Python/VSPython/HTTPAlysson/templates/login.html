@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <style>
+      body {
+          font-family: Arial, sans-serif;
+          background-color: #f2f2f2;
+          margin: 0;
+          padding: 0;
+      }
+
+      h1 {
+          text-align: center;
+          margin-top: 50px;
+      }
+
+      form {
+          max-width: 300px;
+          margin: 30px auto;
+          background-color: #ffffff;
+          padding: 20px;
+          border-radius: 5px;
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      label {
+          display: block;
+          margin-bottom: 10px;
+      }
+
+      input[type="text"],
+      input[type="password"] {
+          width: 100%;
+          padding: 10px;
+          border: 1px solid #ccc;
+          border-radius: 3px;
+          margin-bottom: 20px;
+      }
+
+      input[type="submit"] {
+          background-color: #4CAF50;
+          color: #fff;
+          border: none;
+          padding: 10px 20px;
+          border-radius: 3px;
+          cursor: pointer;
+      }
+
+      input[type="submit"]:hover {
+          background-color: #45a049;
+      }
+
+      p.error-message {
+          color: red;
+          font-size: 14px;
+          margin-top: -10px;
+          margin-bottom: 10px;
+      }
+    </style>
+</head>
+<body>
+    <h1>Login</h1>
+    {% if message %}
+        <p>{{ message }}</p>
+    {% endif %}
+    <form method="POST" action="{{ url_for('login') }}">
+        <label for="username">Usuário:</label>
+        <input type="text" id="username" name="username" required><br><br>
+        <label for="password">Senha:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        <input type="submit" value="Entrar">
+    </form>
+</body>
+</html>

@@ -1,5 +1,5 @@
- M√ìDULO CONTROLE DE ESTOQUE                                  ORDENS DE SERVICO DE VEICULOS                           P√ÅGINA :          1
- 000-TODAS AS EMPRESAS                                       Emiss√£o: 01/03/2023 A 31/05/2023                        DATA   : 07/06/2023
+ M”DULO CONTROLE DE ESTOQUE                                  ORDENS DE SERVICO DE VEICULOS                           P¡GINA :          1
+ 000-TODAS AS EMPRESAS                                       Emiss„o: 01/03/2023 A 31/05/2023                        DATA   : 07/06/2023
  ---------------------------------------------------------------------------------------------------------------------------------------
  MOTORISTA:                                                                                                                             
  VEICULO: N. -                                                                        GRUPO:                                            
@@ -69,7 +69,7 @@
  12/05/2023 75859      REPARO PARA CONEXAO PNEUMATICA GRANDE - 12MM                                         2,00 PC                16,86
  12/05/2023 75859      PARAFUSO SEXTAVADO 10mm                                                              1,00 UN                 2,70
  12/05/2023 75859      BUCHA DO EIXO ESTABILIZADOR DIANTEIRO OF 1418                                        4,00 PC                55,48
- 12/05/2023 75859      GRAXEIRA 10mm 45¬∫                                                                    1,00 UN                 3,63
+ 12/05/2023 75859      GRAXEIRA 10mm 45∫                                                                    1,00 UN                 3,63
  12/05/2023 75859      BUCHA MOLA TRASEIRA - 352 325 01 50                                                  1,00 PC                22,01
  12/05/2023 75859      PARAFUSO DO ESTABILIZADOR OF 1418                                                    5,00 PC                52,75
  12/05/2023 75859      PORCA TRAVANTE 14mm                                                                  5,00 UN                14,82
@@ -133,7 +133,7 @@
  19/05/2023 75979      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              1,00 PC                 7,49
  19/05/2023 75979      LONA DIANTEIRA OF 1620 - DM 584XX                                                    8,00 UN               268,29
  19/05/2023 75979      SERVICO - TAMBOR DE FREIO RECONDICIONADO                                             2,00 SERV             100,00
- 19/05/2023 75979      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        1,00 UN                 4,70
+ 19/05/2023 75979      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        1,00 UN                 4,70
  19/05/2023 75979      ARRUELA PINO DE MOLA TRASEIRA (GROSSA 6mm)                                           2,00 PC                15,67
  19/05/2023 75979      BUCHA MOLA TRASEIRA - 352 325 01 50                                                  1,00 PC                21,87
  19/05/2023 75979      PINO DE MOLA TRASEIRO COMPRIDO - 149mmX30                                            1,00 PC                47,81
@@ -152,7 +152,7 @@
  TOTAL DO  VEICULO: 108: R$ 645.91
  VEICULO: 109                                                                                                                           
  03/05/2023 75694      REPARO DA TOMADA DE AR VALVULA REGULADORA KNORR                                      1,00 JG                26,05
- 15/05/2023 75866      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        1,00 UN                 4,65
+ 15/05/2023 75866      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        1,00 UN                 4,65
  15/05/2023 75866      BUCHA MOLA DIANTEIRA - 352 322 00 50                                                 1,00 PC                22,17
  15/05/2023 75866      PINO MOLA DIANTEIRO - 345 322 70 30                                                  1,00 PC                28,71
  15/05/2023 75866      PARAFUSO DO AMORTECEDOR INFERIOR 16 x 100                                            1,00 PC                34,57
@@ -168,7 +168,7 @@
  23/05/2023 76071      COLA VEDA ESCAPE                                                                     1,00 UN                 9,80
  23/05/2023 76071      BRACADEIRA DA DESCARGA NA TURBINA OF 1418                                            1,00 PC                95,87
  29/05/2023 76151      JUMELO DE MOLA DIANTEIRA - 352 320 00 63                                             2,00 PC               284,12
- 29/05/2023 76151      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        6,00 UN                31,22
+ 29/05/2023 76151      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        6,00 UN                31,22
  29/05/2023 76151      PINO MOLA DIANTEIRO - 345 322 70 30                                                  6,00 PC               206,14
  29/05/2023 76151      ARRUELA PINO DE MOLA DIANTEIRA (MEDIA 5mm)                                          12,00 PC                60,00
  29/05/2023 76151      BUCHA MOLA DIANTEIRA - 352 322 00 50                                                 4,00 PC                84,81
@@ -477,7 +477,7 @@
  23/05/2023 75072      BUCHA PLASTICA DO VARAO GARFO EMBREAGEM                                              1,00 PC               104,23
  23/05/2023 75072      RETENTOR DO VOLANTE MOTOR - 025 997 50 47                                            1,00 PC               149,88
  23/05/2023 75072      BRACADEIRA PLASTICA GG - 400mm                                                      10,00 PC                 4,44
- 23/05/2023 75072      PINO DESLIZANTE DO GARFO 3¬™ E 4¬™ DA CAIXA G85 - 970 265 04 49                        2,00 PC               168,21
+ 23/05/2023 75072      PINO DESLIZANTE DO GARFO 3™ E 4™ DA CAIXA G85 - 970 265 04 49                        2,00 PC               168,21
  23/05/2023 75072      PORCA TRAVANTE 14mm                                                                  2,00 UN                 5,93
  23/05/2023 75072      PARAFUSO DO PLATO EMBREAGEM 8 x 60 OF 1418                                           2,00 PC                 5,83
  23/05/2023 75072      ROLETE C/ PINO DO GARFO EMBREAGEM OF 1418 CAIXA MBB                                  2,00 PC                73,27
@@ -629,7 +629,7 @@
  03/05/2023 75606      ARRUELA PINO DE MOLA DIANTEIRA (MEDIA 5mm)                                          12,00 PC                60,00
  03/05/2023 75606      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              4,00 PC                39,05
  03/05/2023 75606      PINO MOLA DIANTEIRO - 345 322 70 30                                                  6,00 PC               235,23
- 03/05/2023 75606      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        6,00 UN                27,91
+ 03/05/2023 75606      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        6,00 UN                27,91
  03/05/2023 75606      BUCHA MOLA DIANTEIRA - 352 322 00 50                                                 6,00 PC               118,50
  05/05/2023 75744      PORCA TRAVANTE 10mm                                                                  1,00 UN                 0,80
  05/05/2023 75744      PONTEIRA DA ALAVANCA DA CAIXA OF 1721 / 1418 N5190                                   1,00 PC                48,35
@@ -671,7 +671,7 @@
  29/05/2023 76150      REGUA DE LED 60 CM (90 LEDs)                                                         1,00 PC                66,69
  TOTAL DO  VEICULO: 2249: R$ 761.04
  VEICULO: 2250                                                                                                                          
- 05/05/2023 75597      GRAXEIRA 10mm 45¬∫                                                                    2,00 UN                 7,26
+ 05/05/2023 75597      GRAXEIRA 10mm 45∫                                                                    2,00 UN                 7,26
  05/05/2023 75597      RETENTOR DO CUBO DIANTEIRO OF 1418 - 02049BG                                         2,00 PC                58,37
  05/05/2023 75597      PISTA DO CUBO DIANTEIRO OF 1721 / 1418 - 345 334 00 15                               1,00 PC                66,95
  05/05/2023 75597      ROLAMENTO DO CUBO DIANTEIRO EXTERNO OF 1418 - 33 208                                 2,00 PC               221,92
@@ -789,7 +789,7 @@
  05/05/2023 75772      ARRUELA PINO DE MOLA TRASEIRA (FINA 4mm)                                             1,00 PC                 3,35
  05/05/2023 75772      PINO DE MOLA TRASEIRO COMPRIDO - 149mmX30                                            1,00 PC                50,40
  05/05/2023 75772      TAMBOR DE FREIO TRAS. OF 1620 ARGENTINO E OF 1418                                    1,00 UN               759,00
- 05/05/2023 75772      GRAXEIRA 10mm 45¬∫                                                                    1,00 UN                 3,63
+ 05/05/2023 75772      GRAXEIRA 10mm 45∫                                                                    1,00 UN                 3,63
  05/05/2023 75772      LONA TRASEIRA OF 1418 - DM 585                                                       4,00 UN                92,77
  05/05/2023 75772      BUCHA MOLA TRASEIRA - 352 325 01 50                                                  1,00 PC                21,02
  05/05/2023 75772      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              1,00 PC                 6,83
@@ -858,7 +858,7 @@
  05/05/2023 75678      ARRUELA PINO DE MOLA TRASEIRA (GROSSA 6mm)                                           2,00 PC                12,95
  05/05/2023 75678      ARRUELA PINO DE MOLA TRASEIRA (MEDIA 5mm)                                            2,00 PC                 6,92
  24/05/2023 76031      PINO DE MOLA TRASEIRO COMPRIDO - 149mmX30                                            3,00 PC               153,41
- 24/05/2023 76031      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        3,00 UN                14,47
+ 24/05/2023 76031      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        3,00 UN                14,47
  24/05/2023 76031      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              3,00 PC                23,49
  24/05/2023 76031      PINO CENTRO DIANTEIRO CABECA BAIXA 12 x 8                                            1,00 PC                15,00
  24/05/2023 76031      BUCHA MOLA TRASEIRA - 352 325 01 50                                                  1,00 PC                21,75
@@ -910,7 +910,7 @@
  26/05/2023 76142      ARRUELA PINO DE MOLA TRASEIRA (GROSSA 6mm)                                          12,00 PC                72,12
  26/05/2023 76142      BUCHA DO ESTABILIZADOR OF 1418 - R 477                                               4,00 PC               101,70
  26/05/2023 76142      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              6,00 PC                50,10
- 26/05/2023 76142      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        6,00 UN                30,19
+ 26/05/2023 76142      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        6,00 UN                30,19
  31/05/2023 76143      PNEU NOVO 275/80 R22.5                                                               2,00 PC             4.704,00
  29/05/2023 76237      CALHA LUZ INTERNA NEOBUS                                                            10,00 PC               750,00
  TOTAL DO  VEICULO: 2271: R$ 7932.84
@@ -1004,10 +1004,10 @@
  31/05/2023 76370      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              1,00 PC                 9,09
  31/05/2023 76370      ARRUELA PINO DE MOLA TRASEIRA (FINA 4mm)                                             1,00 PC                 3,35
  31/05/2023 76370      JUNTA DO CUBO TRASEIRO OF 1620 / 1721 / 1722                                         1,00 PC                 2,79
- 31/05/2023 76370      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        1,00 UN                 5,37
+ 31/05/2023 76370      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        1,00 UN                 5,37
  31/05/2023 76370      BUCHA MOLA TRASEIRA - 352 325 01 50                                                  1,00 PC                21,27
  31/05/2023 76370      BUCHA DO ESTABILIZADOR OF 1418 - R 477                                               1,00 PC                25,42
- 31/05/2023 76370      GRAXEIRA 10mm 45¬∫                                                                    2,00 UN                 7,26
+ 31/05/2023 76370      GRAXEIRA 10mm 45∫                                                                    2,00 UN                 7,26
  31/05/2023 76370      ARANHA TRAVA CUBO TRASEIRO OF 1620 / 1721 / 1722                                     1,00 PC                 8,39
  31/05/2023 76370      PINO DE MOLA TRASEIRO COMPRIDO - 149mmX30                                            1,00 PC                55,50
  31/05/2023 76370      RETENTOR DO CUBO TRASEIRO OF 1620 / 1721/ 1722                                       1,00 PC                32,32
@@ -1076,7 +1076,7 @@
  31/05/2023 76195      CHAVETA DO PINO DA MOLA - 352 990 03 37                                              1,00 PC                 9,10
  31/05/2023 76195      BUCHA MOLA TRASEIRA - 352 325 01 50                                                  1,00 PC                21,26
  31/05/2023 76195      SUPORTE DE MOLA TRASEIRO OF 1418 - M2005                                             1,00 PC               423,96
- 31/05/2023 76195      GRAXEIRA 10mm 45¬∫                                                                    1,00 UN                 3,63
+ 31/05/2023 76195      GRAXEIRA 10mm 45∫                                                                    1,00 UN                 3,63
  TOTAL DO  VEICULO: 2284: R$ 1853.09
  VEICULO: 2285                                                                                                                          
  03/05/2023 75695      CHAVE SETA OF 1721 ELETRONICO - IM 12080                                             1,00 PC               279,06
@@ -1104,7 +1104,7 @@
  30/05/2023 76250      PINO MOLA DIANTEIRO - 345 322 70 30                                                  6,00 PC               223,07
  30/05/2023 76250      JUMELO DE MOLA DIANTEIRA - 352 320 00 63                                             2,00 PC               312,06
  30/05/2023 76250      PINO CENTRO DIANTEIRO CABECA BAIXA 12 x 8                                            2,00 PC                30,00
- 30/05/2023 76250      GRAXEIRA 10mm 90¬∫ (ROSCA GAS)                                                        6,00 UN                32,06
+ 30/05/2023 76250      GRAXEIRA 10mm 90∫ (ROSCA GAS)                                                        6,00 UN                32,06
  30/05/2023 76250      BUCHA MOLA DIANTEIRA - 352 322 00 50                                                 4,00 PC                82,67
  31/05/2023 76250      SERVICO - MOLAS (SUSPENSAO)                                                          1,00 SER              183,33
  30/05/2023 76250      ARRUELA PINO DE MOLA DIANTEIRA (MEDIA 5mm)                                          12,00 PC                60,00

@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(to bottom right, #f9f9f9, #ececec);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+#file-input {
+    display: none;
+}
+
+#file-label {
+    display: block;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#process-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#process-button:hover {
+    background-color: #0056b3;
+}
