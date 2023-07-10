@@ -132,7 +132,7 @@ def process_file(file_path):
         # ...
 
         # Especifique a codificação correta do arquivo
-        encoding = 'UTF-8'  # Ou outra codificação adequada
+        encoding = 'latin-1'  # Ou outra codificação adequada
 
         # Abra o arquivo para leitura usando a codificação correta
         with codecs.open(file_path, 'r', encoding) as file:
@@ -288,4 +288,3 @@ def process():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8343)
-    app.run(debug=True)
