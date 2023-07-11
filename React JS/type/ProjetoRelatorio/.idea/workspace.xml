@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9343e5-cdd7-4a69-8aa3-4e1e2aedc447" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/../../../Discord/Discord-Bot-master/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Discord/Discord-Bot-master/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Discord/Discord-Bot-master/ffmpeg/LICENSE" afterDir="false" />
@@ -4742,6 +4743,15 @@
       <change beforePath="$PROJECT_DIR$/../../../Python/VSPython/HTTPAlysson/arquivoLimpo_06-2023.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/VSPython/HTTPAlysson/arquivo_processado.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/VSPython/HTTPAlysson/arquivo_processado.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/VSPython/HTTPAlysson/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/VSPython/HTTPAlysson/main.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../../../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vs/VSWorkspaceState.sync-conflict-20230408-175122-WOXNROX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vs/slnx.sync-conflict-20230408-175122-WOXNROX.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/settings.sync-conflict-20230408-175125-WOXNROX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> b190eb9afb4645add9b724af768d26d703919fdc
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
