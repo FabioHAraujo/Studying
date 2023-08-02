@@ -1,8 +1,11 @@
 import React from 'expo-status-bar';
 import { Text, View, StyleSheet, StatusBar, SafeAreaView } from 'react-native';
 import { useFonts, Montserrat_400Regular, Montserrat_700Bold } from '@expo-google-fonts/montserrat';
+import AppLoading from 'expo-app-loading';
 import Cesta from './src/views/Cesta';
 import mock from './src/mocks/cesta';
+
+
 
 export default function App() {
   const [fontesCarregadas] = useFonts({
@@ -11,9 +14,7 @@ export default function App() {
   });
 
   if (!fontesCarregadas) {
-     return <View>
-       <Text style={styles.carregando} >Carregando...</Text>
-       </View>;
+    return <AppLoading/>
   };
   return (
     <SafeAreaView>
