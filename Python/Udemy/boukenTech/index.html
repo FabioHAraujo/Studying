@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>SITE</title>
+  </head>
+  <body>
+    <div class="top-menu-space"></div>
+
+    <label class="not-visible" for="close-menu">Close Menu</label>
+    <input
+      class="close-menu"
+      type="checkbox"
+      id="close-menu"
+      role="button"
+      aria-label="Close Menu"
+    />
+
+    <aside class="menu">
+      <div>
+        <h1 class="logo">
+          <a
+            onclick="getElementById('close-menu').checked = false;"
+            href="#home"
+            >Bouken <img src="barraca.png" width="30px"> Tech</a
+          >
+        </h1>
+        <nav>
+          <ul onclick="getElementById('close-menu').checked = false;">
+            <li>
+              <a href="#intro">intro</a>
+            </li>
+            <li>
+              <a href="#top-3">top 3</a>
+            </li>
+            <li>
+              <a href="#gallery">gallery</a>
+            </li>
+            <li>
+              <a href="#latest-work">work</a>
+            </li>
+            <li>
+              <a href="#footer">contact</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </aside>
