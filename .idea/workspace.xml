@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebb6ad3-01c4-4bfc-b541-b822b4965023" name="Changes" comment="" />
+    <list default="true" id="cebb6ad3-01c4-4bfc-b541-b822b4965023" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/frontEnd/Alura/formacao-html-css/projeto 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/Alura/formacao-html-css/projeto 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/Alura/formacao-html-css/projeto 1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/Alura/formacao-html-css/projeto 1/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +27,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2O9yZ8iqZujBXgdJog8xJq9iNUD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />

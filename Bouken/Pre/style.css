@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap");
+
+@font-face {
+  font-family: "Tertre-ExtraBold";
+  src: url("tertre-xbol.eot?") format("eot"),
+    url("tertre-xbol.woff") format("woff"),
+    url("tertre-xbol.ttf") format("truetype"),
+    url("tertre-xbol.svg#Tertre-ExtraBold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: #1E1E1E;
+  color: #fff;
+}
+
+.titulo-destaque {
+  color: #22d4fd;
+}
+
+.apresentacao {
+  margin: 10% 15%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.apresentacao__conteudo {
+  width: 615px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.apresentacao__conteudo__logo {
+  font-size: 60px;
+  font-family: "Tertre-ExtraBold";
+  position: relative;
+  margin-bottom: -40px
+}
+
+.apresentacao__conteudo__subtit {
+  font-size: 26px;
+}
+
+.apresentacao__conteudo__logo::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 217px;
+    height: 5px; /* Altere a altura da borda conforme necessário */
+    background-color: #fff; /* Altere a cor da borda conforme necessário */
+}
+
+.apresentacao__conteudo__titulo {
+  font-size: 30px;
+  font-family: 'Krona One', sans-serif;
+}
+
+.parte-logo {
+  position: relative;
+  top: 7px;
+  width: 90px;
+}
+
+.apresentacao__conteudo__texto {
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.apresentacao__links {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*
+Feito com base no Figma
+.apresentacao__links__midias {
+  background-color: #22D4FD;
+  width: 280px;
+  height: 79px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  border: 0px solid #22D4FD;
+}
+*/
+
+/* Com base no Video*/
+.apresentacao__links__linkedin {
+  background-color: #22d4fd;
+  width: 280px;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 16px;
+  font-size: 24px;
+  padding: 21.5px 0;
+  text-decoration: none;
+  color: #000;
+  font-family: "Montserrat", sans-serif;
+  transition: all .5s ease;
+}
+
+.apresentacao__links__linkedin:hover {
+  letter-spacing: 3px;
+  background-color: #0e76a8 ;
+  color: hsl(0, 0%, 100%);
+  box-shadow: #0e76a8  0px 7px 29px 0px;
+}
+
+.apresentacao__links__whatsapp {
+  background-color: #22d4fd;
+  width: 280px;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 16px;
+  font-size: 24px;
+  padding: 21.5px 0;
+  text-decoration: none;
+  color: #000;
+  font-family: "Montserrat", sans-serif;
+  transition: all .5s ease;
+}
+
+.apresentacao__links__whatsapp:hover {
+  letter-spacing: 3px;
+  background-color: #128C7E ;
+  color: hsl(0, 0%, 100%);
+  box-shadow: #128C7E  0px 7px 29px 0px;
+}
+
+.imagem {
+  width: 700px;
+}
