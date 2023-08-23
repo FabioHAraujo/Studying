@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebb6ad3-01c4-4bfc-b541-b822b4965023" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.fleet/run.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/arquivo_limpo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/compara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/exclusivas_em_arquivo1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/exclusivas_em_arquivo2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/exclusivas_em_arquivo3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/hml.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/prd.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Testes/prdc.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cebb6ad3-01c4-4bfc-b541-b822b4965023" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +24,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2O9yZ8iqZujBXgdJog8xJq9iNUD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,7 +54,7 @@
       <recent name="C:\Users\super\OneDrive\Documentos\1ESTUDANDO\Discord\Discord-Bot-master" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.CSVAlysson">
     <configuration name="CSVAlysson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1ESTUDANDO" />
       <option name="INTERPRETER_OPTIONS" value="" />
