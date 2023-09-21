@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/style.css">
+  <title>Intranet - Plinio Fleck</title>
+</head>
+<body>
+  <header class="cabecalho">
+    <div class="navbar">
+      <img src="assets/LGMID.png" alt="Logo Plinio Fleck" class="cabecalho__logo">
+      <a href="#home">Home</a>
+      <a href="#news">Álbum Virtual</a>
+      <div class="dropdown">
+        <button class="dropbtn">Funcionários
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Aniversariantes</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+      <div class="dropdown">
+        <button class="dropbtn">Contato
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Contatos Emergenciais</a>
+          <a href="#">Link 2</a>  
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+      <div class="dropdown">
+        <button class="dropbtn">Funcionários
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Aniversariantes</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section class="carrossel">
+    <h2 class="carrossel__titulo">Últimos Lançamentos</h2>
+    <!-- Slider main container -->
+    <div class="swiper">
+      <div class="swiper-pagination"></div>
+      <!-- Additional required wrapper -->
+      <div class="swiper-wrapper">
+        <!-- Slides -->
+        <div class="swiper-slide">
+          <img
+            src="assets/slide1.jpg"
+            alt="Livro Sobre Angular e Firebase da Alura Books" />
+        </div>
+        <div class="swiper-slide">
+          <img
+            src="assets/slide2.jpg"
+            alt="Livro Sobre Apache Kafka e Spring Boot da Alura Books" />
+        </div>
+        <div class="swiper-slide">
+          <img
+            src="assets/slide3.jpg"
+            alt="Livro Sobre Gestão de Produtos da Alura Books" />
+        </div>
+        <div class="swiper-slide">
+          <img
+            src="assets/MEAN.svg"
+            alt="Livro Sobre MEAN/FullStack Javascript da Alura Books" />
+        </div>
+        <div class="swiper-slide">
+          <img
+            src="assets/Guia Front-end.svg"
+            alt="Livro Guia Front-End da Alura Books" />
+        </div>
+        <div class="swiper-slide">
+          <img
+            src="assets/Portugol.svg"
+            alt="Livro Sobre Lógica de Programação com Portugol da Alura Books" />
+        </div>
+        <div class="swiper-slide">
+          <img
+            src="assets/Tuning.svg"
+            alt="Livro Sobre Tuning SQL da Alura Books" />
+        </div>
+        ...
+      </div>
+      <!-- If we need pagination -->
+      
+      <!-- If we need navigation buttons -->
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+
+    </div>
+  </section>
+  
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+  <script>
+    const swiper = new Swiper(".swiper", {
+      spaceBetween: 10, // Removi as aspas para garantir que seja um número
+      centeredSlides: true, // Centraliza o slide principal
+      slidesPerView: 'auto', // Mostra o número máximo de slides possível
+      loop: true,
+      initialSlide: 1,
+      pagination: {
+        el: '.swiper-pagination',
+        type: 'bullets',
+      },
+      breakpoints: {
+        "@0.00": {
+          slidesPerView: 2,
+        },
+        "@0.75": {
+          slidesPerView: 2,
+        },
+        "@1.00": {
+          slidesPerView: 3,
+        },
+        "@1.50": {
+          slidesPerView: 4,
+        },
+      },
+    });
+  </script>
+</body>
+</html>

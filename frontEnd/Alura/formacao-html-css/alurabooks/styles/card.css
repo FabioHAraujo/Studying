@@ -1,0 +1,65 @@
+.card__container {
+  padding: 1.5em;
+}
+
+.card {
+  padding: 1em;
+  display: flex;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.card__interesse {
+  color: var(--laranja);
+  font-family: var(--fonte-principal);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: normal;
+}
+
+.card__titulo {
+  color: var(--azul);
+  font-family: var(--fonte-principal);
+  font-size: 18px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 700;
+}
+
+.card__descricao {
+  color: rgba(0, 0, 0, 0.85);
+  font-style: normal;
+  line-height: normal;
+  font-family: var(--fonte-principal);
+  font-size: 14px;
+  padding: 0 8px 0 0;
+}
+
+.card__icone {
+  padding: 8px;
+}
+
+.card__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 4px 0 1em 0;
+  width: 50%;
+  gap: 60px;
+}
+
+.card__botao {
+  background-color: var(--laranja);
+  font-family: var(--fonte-principal);
+  font-weight: 700;
+  line-height: normal;
+  font-style: normal;
+  font-size: 16px;
+  padding: 8px 16px;
+  align-items: center;
+  color: var(--branco);
+  text-decoration: none;
+  text-align: center;
+  margin-bottom: -8px;
+}

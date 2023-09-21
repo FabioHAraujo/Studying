@@ -1,0 +1,14 @@
+.rodape {
+  height: 65px;
+  border-top: 1px solid #858585;
+  background: #F9F9F9;
+}
+
+.rodape__texto {
+  font-family: var(--fonte-principal);
+  line-height: normal;
+  font-weight: 400;
+  font-size: 16px ;
+  color: var(--texto-rodape);
+  padding: 17px 24px 24px;
+}
